@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haadiyaa&label=Profile%20views&color=0e75b6&style=flat" alt="haadiyaa" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://haadiyaa.github.io/hadiya-portfolio/]([https://haadiyaa.github.io/hadiya-portfolio/])
-
+- 👨‍💻 All of my projects are available at [My Portfolio](https://haadiyaa.github.io/hadiya-portfolio/)
+  
 - 💬 Ask me about **Flutter, Dart, State management systems**
 
 - 📫 How to reach me **haadiyact@gmail.com**
