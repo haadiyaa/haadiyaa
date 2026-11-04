@@ -1,28 +1,40 @@
-[![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/haadiyaa)
+<h1 align="center">Haadiya CT</h1>
+<p align="center">Flutter developer from Kerala, India</p>
 
-<h1 align="center">Hi 👋, I'm Haadiya</h1>
-<h3 align="center">A passionate Flutter Developer from Kerala, India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haadiyaa&label=Profile%20views&color=0e75b6&style=flat" alt="haadiyaa" /> </p>
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://haadiyaa.github.io/hadiya-portfolio/)
-  
-- 💬 Ask me about **Flutter, Dart, State management systems**
-
-- 📫 How to reach me **haadiyact@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ORUaH0QjjMssVPIGvG04LMPRj2PRkmkp/view?usp=sharing](https://drive.google.com/file/d/1ORUaH0QjjMssVPIGvG04LMPRj2PRkmkp/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/haadiya-ct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haadiya-ct" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://haadiyaa.github.io/hadiya-portfolio/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/haadiya-ct-47775621b/">LinkedIn</a> ·
+  <a href="mailto:haadiyact@gmail.com">Email</a> ·
+  <a href="https://drive.google.com/file/d/1ORUaH0QjjMssVPIGvG04LMPRj2PRkmkp/view?usp=sharing">Resume</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haadiyaa&show_icons=true&locale=en&layout=compact" alt="haadiyaa" /></p>
+I build Flutter apps that stay fast and usable offline, from restaurant ERPs to live analytics dashboards. Over 3 years I have shipped 5+ apps across Android, iOS, desktop and web.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haadiyaa&show_icons=true&locale=en" alt="haadiyaa" /></p>
+### What I work on
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haadiyaa&" alt="haadiyaa" /></p>
+- **Cross-platform apps** with Flutter and Dart, from Figma design to production
+- **Offline-first data**, with local storage and automatic server sync
+- **Clean architecture** and state management that stay easy to maintain
+- **API integration**, working closely with backend teams
+
+### Selected work
+
+| Project | What it is |
+| --- | --- |
+| **Isselo** | Restaurant management ERP for Android, iOS and desktop. Works offline and syncs on its own. |
+| **Pantry Pal** | Offline-first app that cuts household food waste with barcode scanning, receipt OCR and expiry reminders. |
+| **SincA Reports** | Live business reports and analytics for ERP administrators. |
+| **SincA ERP** | Enterprise suite for sales, stock, finance, HRM and procurement. I built the web front end and WPF desktop client. |
+| **Hidhayah** | Islamic companion app with prayer times and a sensor-based Qibla compass. |
+
+### Stack
+
+**Flutter and Dart:** Riverpod, Bloc, Provider, GetX, Freezed, go_router
+**Data:** SQLite, Hive, Firebase, REST APIs
+**Also:** C#, .NET, WPF, Figma, Git, GitHub Actions
+
+<br>
+
+<p align="center">Open to conversations about Flutter, Dart and state management.</p>
