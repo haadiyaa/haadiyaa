@@ -2,7 +2,7 @@
 <p align="center">Flutter developer from Kerala, India</p>
 
 <p align="center">
-  <a href="https://haadiyaa.github.io/hadiya-portfolio/">Portfolio</a> ·
+  <a href="https://haadiyaa.github.io/hadiyaa-portfolio/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/haadiya-ct-47775621b/">LinkedIn</a> ·
   <a href="mailto:haadiyact@gmail.com">Email</a> ·
   <a href="https://drive.google.com/file/d/1ORUaH0QjjMssVPIGvG04LMPRj2PRkmkp/view?usp=sharing">Resume</a>
